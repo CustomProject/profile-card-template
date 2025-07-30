@@ -17,7 +17,7 @@ If you have any questions, suggestions, or want to contribute, don’t hesitate 
 ### 📚 Technologies Used
 - HTML5
 - CSS3
-[Bootstrap Icons](https://icons.getbootstrap.com/)
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 ### ⚙️ Installation
 1. Download the template files
