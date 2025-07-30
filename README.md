@@ -26,7 +26,7 @@ If you have any questions, suggestions, or want to contribute, don’t hesitate 
 
 3. Open the index.html file in your browser
 
-Start customizing!
+4. Start customizing!
 
 ### 📜 License
 This project is licensed under the MIT License.
